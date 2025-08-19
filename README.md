@@ -1,4 +1,4 @@
-# Flower Privacy-Preserving ML Demo
+# Flower Federated learning ML Demo
 
 This repository contains a modular Python implementation that demonstrates federated learning using a simplified approach that doesn't require complex Flower framework setup. The implementation shows how federated learning works by simulating the training process manually using pandas and scikit-learn.
 
