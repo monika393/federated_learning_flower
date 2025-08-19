@@ -1,0 +1,28 @@
+Federated Learning Results
+==============================
+Centralized GBR MSE: 1191.6744
+Federated SGD MSE: 3687.6243
+Performance difference: 2495.9499
+Federated rounds: 5
+Client 1 samples: 200
+Client 2 samples: 242
+Total samples: 442
+
+Detailed Training Statistics
+-------------------------
+
+Client 1:
+  Total samples: 200
+  Final MSE: 3744.3780
+  Final R²: 0.3247
+  Final MAE: 50.2052
+  Final coefficient norm: 324.6334
+  MSE improvement: 0.00%
+
+Client 2:
+  Total samples: 242
+  Final MSE: 3557.0491
+  Final R²: 0.4269
+  Final MAE: 51.0145
+  Final coefficient norm: 414.7708
+  MSE improvement: 0.00%

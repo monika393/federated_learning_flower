@@ -1,0 +1,20 @@
+Flower Privacy-Preserving ML Demo Results
+==================================================
+
+Dataset: Diabetes dataset
+Client 1 samples: 200
+Client 2 samples: 242
+Total samples: 442
+
+Training Results:
+--------------------
+Round 1: Client1=3662.3862, Client2=3731.8887, Global=3697.1375
+Round 2: Client1=3662.3862, Client2=3731.8887, Global=3697.1375
+Round 3: Client1=3662.3862, Client2=3731.8887, Global=3697.1375
+Round 4: Client1=3662.3862, Client2=3731.8887, Global=3697.1375
+Round 5: Client1=3662.3862, Client2=3731.8887, Global=3697.1375
+
+Final Model Performance:
+-------------------------
+Centralized Gradient Boosting Regressor MSE: 1191.6744
+Federated SGDRegressor MSE: 3700.4396
