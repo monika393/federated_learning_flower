@@ -88,7 +88,7 @@ The code is organized into modular files with focused responsibilities:
   - `PlotCreator`: Creates various types of plots for visualization
   - `FileSaver`: Manages saving plots and results to files
 
-- **`flower_privacy_ml_demo_simple.py`** - Main execution script with comprehensive training statistics
+- **`flower_federated_ml_demo_simple.py`** - Main execution script with comprehensive training statistics
 
 ### Key Features
 
